@@ -894,7 +894,7 @@ Home Section style
 ==================*/
 
 .home{
-    background: url(../images/home-bg.jpg) no-repeat top center;
+    background: url(../images/home_bg.jpg) no-repeat top center;
     background-size: cover;
     position: relative;
     padding-top: 300px;
@@ -1196,7 +1196,7 @@ tems Section style
 /*Choose Section
 ======================*/
 .choose_mac{
-    background: url(../images/choose-mokup.png) no-repeat;
+    background: #fff;
     background-size: cover;
     width: 600px;
     height: 365px;
