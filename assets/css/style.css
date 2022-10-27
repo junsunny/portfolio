@@ -1407,105 +1407,20 @@ tems Section style
     background-color: #434769;
     display: inline-block;
 }
-.widget_ab_item_text h6{
-    margin-bottom:5px;
-}
+
 .widget_item h5{
     font-weight: 700;
 }
-.widget_item .btn:hover{
-    background-color: #0ec9a2;
-}
-.widget_item li a{
-    color:#aaa;
-}
-.widget_item li a:hover{
-    color:#fff;
-}
 
-.widget_latst_item_text p{
-    margin-bottom: 0px;
-    color:#aaaaaa;
-}
-.widget_service li i,
-.widget_latst_item_text a{
-    font-size:12px;
-    color:#aaaaaa;
-}
-.widget_service li i{
-    margin-right: 5px;
-}
-.widget_service li{
-    font-size:13px;
-    border-bottom: 1px dashed #aaa;
-    padding-bottom: 10px;
-}
-.widget_newsletter li a:hover i,
-.widget_latst_item_text:hover p,
-.widget_service li:hover,
-.widget_service li:hover i{
-    color:#fff;
-}
 
-.widget_ab_item .item_icon,
-.widget_latst_item .item_icon{
-    float: left;
-    width: 20%;
-    display: inline-block;
-    margin-right: 15px;
-}
-.widget_ab_item .widget_ab_item_text,
-.widget_latst_item .widget_latst_item_text {
-    display: inline-block;
-    width: 70%;
-}
-.widget_ab_item .item_icon{
-    float: left;
-    width: 10%;
-    display: inline-block;
-    margin-right: 15px;
-}
-.widget_ab_item .widget_ab_item_text {
-    display: inline-block;
-    width: 80%;
-}
-.widget_newsletter .form-inline .form-group{
-    display: block;
-}
-.widget_newsletter .form-control{
-    width:80%;
-    height: 40px;
-    background-color: #1a1a1a;
-    border-color:#333333;
-    display: inline-block;
-}
-.widget_newsletter .btn{
-    width: 18%;
-    padding: 0.65rem 1.2rem;
-    background-color: #444444;
-    border-color:#444444;
-    color:#fff;
-    border-radius: 0;
-    margin-left:-4px;
-    display: inline-block;
-    font-size: 12px;
-}
-.widget_newsletter .btn:hover{
-    background-color: #fddc57;
-    border-color:#fddc57;
-    color:#333;
-}
 .widget_brand a{
     font-size:30px;
     font-weight: 800;
     color:#aaa;
 }
-.widget_newsletter li a i{
-    color:#aaa;
-}
-
 
 .main_footer i {
     padding: 0px 5px;
     color: #ff0000;
 }
+
